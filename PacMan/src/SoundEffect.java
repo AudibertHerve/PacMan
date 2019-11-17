@@ -45,6 +45,7 @@ public class SoundEffect implements  Sound {
         }
     }
 
+    // TEST 1 2 3 4 5
     public static void main(String[] args) throws Exception {
             File Clap = new File("pacman_beginning.wav");
             File Clap2 = new File("pacman_chomp.wav");
